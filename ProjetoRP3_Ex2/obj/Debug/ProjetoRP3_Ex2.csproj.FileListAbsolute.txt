@@ -1,0 +1,7 @@
+D:\POO\ProjetoRP3_Ex2\ProjetoRP3_Ex2\bin\Debug\ProjetoRP3_Ex2.exe.config
+D:\POO\ProjetoRP3_Ex2\ProjetoRP3_Ex2\bin\Debug\ProjetoRP3_Ex2.exe
+D:\POO\ProjetoRP3_Ex2\ProjetoRP3_Ex2\bin\Debug\ProjetoRP3_Ex2.pdb
+D:\POO\ProjetoRP3_Ex2\ProjetoRP3_Ex2\obj\Debug\ProjetoRP3_Ex2.csproj.AssemblyReference.cache
+D:\POO\ProjetoRP3_Ex2\ProjetoRP3_Ex2\obj\Debug\ProjetoRP3_Ex2.csproj.CoreCompileInputs.cache
+D:\POO\ProjetoRP3_Ex2\ProjetoRP3_Ex2\obj\Debug\ProjetoRP3_Ex2.exe
+D:\POO\ProjetoRP3_Ex2\ProjetoRP3_Ex2\obj\Debug\ProjetoRP3_Ex2.pdb
